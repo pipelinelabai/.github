@@ -20,9 +20,11 @@ Our datasets are expert-built task sets with graders attached. Each one ships a 
 | Repository | What it is |
 |---|---|
 | [edgebench-swe](https://github.com/pipelinelabai/edgebench-swe) | Long-horizon coding agent benchmark built from real open-source version upgrades. 115 tasks, 17 repositories, 5 languages, weighted subtask scoring. Three complete tasks are published here in Harbor format. |
+| [paperbench-expanded](https://github.com/pipelinelabai/paperbench-expanded) | PaperBench High-Difficulty and Expanded Tasks: paper reproduction beyond machine learning. 93 tasks in 12 research areas and six domains, run in domain-native software (HFSS, Meep, Quantum ESPRESSO, PySCF, embodied simulators) and graded by clean replay. 12 public tasks, 81 held out. |
 
 ## Research
 
+- [PaperBench High-Difficulty and Expanded Tasks](https://pipelinelab.ai/blog/paperbench-expanded)
 - [EdgeBench SWE: from issue fixes to long-horizon feature development](https://pipelinelab.ai/blog/edgebenchswe)
 - [Parallax: delegated agents for deep scientific research](https://pipelinelab.ai/blog/parallax)
 - [SaaS-Bench: computer-use agents for complex professional workflows](https://pipelinelab.ai/blog/saas-bench)
