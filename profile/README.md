@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="logo.png" alt="Pipeline Lab" width="320" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <img src="logo.png" alt="Pipeline Lab" width="320" />
+  </picture>
 </p>
 
 <h3 align="center">Precision data for giant AI leaps.</h3>
